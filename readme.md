@@ -14,3 +14,7 @@ amra chaile root directory ba js er alada folder create korte pari eita amader n
 
 target es5/6 or older version select kore dite pari tate amra code lekhbo update version e ta convert korbe 
 eirokom custom kora jabe 
+
+
+//typescript e non-primtive e array object funcion ache javascript e same 
+primtive data type--typescript: 
