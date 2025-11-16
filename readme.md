@@ -7,7 +7,7 @@ typescript install kora lagbe
 tsc typescript file name dile js file create korbe 
 
 tsc --init dile tsconfig file create korbe 
-
+node ./src/filename
 
 //typescript config file 
 amra chaile root directory ba js er alada folder create korte pari eita amader nam eo hote pare 
